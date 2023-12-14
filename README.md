@@ -7,12 +7,13 @@
 <p>Ecco quali linguaggi fanno parte del mio bagaglio culturale:</p>
 <p>I linguaggi di programmazione che conosco includono:</p>
 <p>
-<a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://handwiki.org/wiki/images/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="40" height="40"></a>
-<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://ih0.redbubble.net/image.395411727.8962/flat,800x800,075,f.u1.jpg"" width="40" height="40"></a>
-<a href=" https://learn.microsoft.com/it-it/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src= "https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=WHZv1aXyAdFq4A&pid=ImgRaw&r=0" width="40" height="40"/> </a>
-<a href="https://angular.io/"  target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OIP.LPMEXup7B50Pq3Xn9xmepwHaH-&w=240&h=259&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="40" height="40" \> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="40" height="40"/></a>
-<a href="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" > <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"  width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://handwiki.org/wiki/images/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" width="40" height="40"></a> &nbsp
+<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://ih0.redbubble.net/image.395411727.8962/flat,800x800,075,f.u1.jpg"" width="40" height="40"></a> &nbsp
+<a href=" https://learn.microsoft.com/it-it/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src= "https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=WHZv1aXyAdFq4A&pid=ImgRaw&r=0" width="40" height="40"/> </a> &nbsp
+<a href="https://angular.io/"  target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OIP.LPMEXup7B50Pq3Xn9xmepwHaH-&w=240&h=259&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="40" height="40" \> </a> &nbsp
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="40" height="40"/></a> &nbsp
+<a href="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" > <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"  width="40" height="40"/></a> &nbsp
+<a href=""></a>
 </p>
 
 
