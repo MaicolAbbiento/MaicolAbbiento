@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Maicol Abbiento - Junior Full-Stack Developer</title>
-</head>
-<body>
+
   <h1 style="text-align: center;">Ciao, sono Maicol Abbiento</h1>
   <h3 style="text-align: center;">Junior Full-Stack Developer</h3>
   
@@ -20,6 +15,5 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="40" height="40" alt="JavaScript"></a> &nbsp;
     <a href="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrap"></a> &nbsp;
   </p>
-</body>
-</html>
+
 
